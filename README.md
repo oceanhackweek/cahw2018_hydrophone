@@ -32,6 +32,9 @@ https://github.com/scienceai/tsne-js
 
 https://github.com/karpathy/tsnejs
 
+- 3D Point Clustering with Plotly
+
+https://plot.ly/python/3d-point-clustering/
 #### sliding histograms
 
 -  save spectrograms for different starting points: visualize as a video or with a slider after that
