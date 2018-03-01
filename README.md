@@ -3,6 +3,8 @@
 
 [Interactive Demo Notebook](https://github.com/oceanhackweek/cahw2018_hydrophone/blob/master/notebooks/OOI_Hydrophone_BB.ipynb)
 
+Interactive demo of streaming spectrograms and sound with ipywidgets.
+
 ### Data Access
 
 - many files of different size
@@ -44,9 +46,4 @@ https://github.com/karpathy/tsnejs
 - 3D Point Clustering with Plotly
 
 https://plot.ly/python/3d-point-clustering/
-#### sliding histograms
-
--  save spectrograms for different starting points: visualize as a video or with a slider after that
--  see if we can make a widget with computing the spectrogram on the fly
-
 
